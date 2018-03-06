@@ -1,11 +1,11 @@
 @font-face {
-    src: url('BASKR___.TTF');
-    font-family: 'BASKR___';
+    src: url('stop.ttf');
+    font-family: 'stop';
 }
 
 @font-face {
-    src: url('LinLibertine_aDRS.ttf');
-    font-family: 'Serif';
+    src: url('KFhimaji.otf');
+    font-family: 'KFhimaji';
 }
 
 @font-face {
@@ -75,7 +75,7 @@ body {
 p {
     margin: 0;
     color: #fff;
-    font-family: 'Serif';
+    font-family: 'KFhimaji';
 }
 
 .slogan {
@@ -83,7 +83,7 @@ p {
     top:2em;
     left:0.5em;
     font-size: 7em;
-    font-family: 'Serif';
+    font-family: 'stop';
     letter-spacing: 0.5px;
 }
 
