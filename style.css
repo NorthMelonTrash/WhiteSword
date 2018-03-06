@@ -59,7 +59,7 @@ body {
     font-size:8em;
     text-transform: uppercase;
     letter-spacing: 0.3px;
-    color: #000000 !important;
+    color: #ffffff !important;
 }
 
 #header {
@@ -75,7 +75,7 @@ p {
 
 .slogan {
     position:absolute;
-    top:2em;
+    bottom:0.5em;
     left:0.5em;
     font-size: 10em;
     font-family: 'stop';
@@ -100,7 +100,7 @@ p {
     border-radius: 10px;
     src: url('KFhimaji.otf');
     font-family: 'KFhimaji';
-    font-size: 0.5em;
+    font-size: 1em;
     text-align:center !important;
 }
 
