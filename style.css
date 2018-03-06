@@ -56,10 +56,10 @@ body {
     -webkit-text-stroke-color: #f05c9b;
     -moz-text-stroke-width: 3px;  
     -webkit-text-stroke-width: 3px;*/
-    font-size:8em;
+    font-size:6em;
     text-transform: uppercase;
     letter-spacing: 0.3px;
-    color: #ffffff !important;
+    color: #000000 !important;
 }
 
 #header {
@@ -85,7 +85,7 @@ p {
 #search {
     position:absolute;
     bottom:14em;
-    left:4em;
+    left:9em;
 }
 
 #search form {
@@ -100,7 +100,7 @@ p {
     border-radius: 10px;
     src: url('KFhimaji.otf');
     font-family: 'KFhimaji';
-    font-size: 1em;
+    font-size: 0.8em;
     text-align:center !important;
 }
 
