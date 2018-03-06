@@ -56,8 +56,8 @@ body {
     -webkit-text-stroke-color: #f05c9b;
     -moz-text-stroke-width: 3px;  
     -webkit-text-stroke-width: 3px;*/
-    font-size:10em;
-    text-transform: lowercase;
+    font-size:8em;
+    text-transform: uppercase;
     letter-spacing: 0.3px;
     color: #000000 !important;
 }
@@ -77,7 +77,7 @@ p {
     position:absolute;
     top:2em;
     left:0.5em;
-    font-size: 15em;
+    font-size: 10em;
     font-family: 'stop';
     letter-spacing: 0.5px;
 }
@@ -100,7 +100,7 @@ p {
     border-radius: 10px;
     src: url('KFhimaji.otf');
     font-family: 'KFhimaji';
-    font-size: 1.05em;
+    font-size: 0.5em;
     text-align:center !important;
 }
 
