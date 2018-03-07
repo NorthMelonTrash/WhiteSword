@@ -60,7 +60,7 @@ body {
     text-transform: uppercase;
     letter-spacing: 0.3px;
     color: #000000 !important;
-    text-stroke-width: 1px;
+    text-stroke-width: 3px;
     text-stroke-color: #ffffff;
 }
 
