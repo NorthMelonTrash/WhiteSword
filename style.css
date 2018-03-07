@@ -1,10 +1,10 @@
 @font-face {
-    src: url('stop.ttf');
+    src: url('./Fonts/stop.ttf');
     font-family: 'stop';
 }
 
 @font-face {
-    src: url('KFhimaji.otf');
+    src: url('./Fonts/KFhimaji.otf');
     font-family: 'KFhimaji';
 }
 
