@@ -86,7 +86,7 @@ p {
 
 #search {
     position:absolute;
-    bottom:14em;
+    bottom:8em;
     left:9em;
 }
 
@@ -96,13 +96,13 @@ p {
 
 #search input {
     height: 15px;
-    width: 200px;
+    width: 250px;
     padding: 15px;
     border: 2px solid #fff;
     border-radius: 10px;
     src: url('KFhimaji.otf');
     font-family: 'KFhimaji';
-    font-size: 0.8em;
+    font-size: 1em;
     text-align:center !important;
 }
 
