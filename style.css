@@ -56,7 +56,7 @@ body {
     -webkit-text-stroke-color: #f05c9b;
     -moz-text-stroke-width: 3px;  
     -webkit-text-stroke-width: 3px;*/
-    font-size:10em;
+    font-size:8em;
     text-transform: uppercase;
     letter-spacing: 0.3px;
     color: #ffffff !important;
@@ -83,7 +83,7 @@ p {
 
 .slogan {
     position:absolute;
-    bottom:1em;
+    bottom:0.8em;
     left:0.5em;
     font-size: 10em;
     font-family: 'stop';
@@ -100,7 +100,7 @@ p {
 
 #search {
     position:absolute;
-    bottom:5em;
+    bottom:3em;
     left:9em;
 }
 
